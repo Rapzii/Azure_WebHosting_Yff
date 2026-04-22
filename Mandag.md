@@ -1,7 +1,7 @@
 # Azure_WebHosting_Yff
 
 
-#  Dag 1 – Tirsdag: Oppsett av Azure-konto
+#  Dag 1 – Mandag: Oppsett av Azure-konto
 
 ##  Mål
 
